@@ -1,7 +1,7 @@
 ### Hello! Welcome to my profile 👋
 
 - 🔭 Focused on Full Stack
-- 🌱 I’m currently learning HTML| CSS | SQL | JAVA
+- 🌱 I’m currently learning HTML | CSS | SQL | JAVA
 
 <div>
  <a href="https://github.com/Nasalees">
