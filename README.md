@@ -1,19 +1,13 @@
 ### Hello! Welcome to my profile 👋
 
 - 🔭 Focused on Full Stack
-- 🌱 I’m currently learning SQL | JAVA | SPRING BOOT | JPA
+- 🌱 I’m currently learning JAVA | SPRING BOOT | JPA | SQL | HTML | CSS
 
 <div>
  <a href="https://github.com/Nasalees">
   <img height="140em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Nasalees&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="140em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Nasalees&layout=compact&langs_count=8&theme=dark"/>
     
-</div>
-
-<div>
-<img height="37"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
-<img height="37" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
-<img  height="37" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
 </div>
 
 ##
